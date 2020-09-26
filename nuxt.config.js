@@ -38,6 +38,8 @@ export default {
   // Content module configuration (https://go.nuxtjs.dev/content-config)
   content: {},
 
+  serverMiddleware: [{ path: '/api', handler: '~/server/index.ts' }],
+
   // Build Configuration (https://go.nuxtjs.dev/config-build)
   build: {
     postcss: {
