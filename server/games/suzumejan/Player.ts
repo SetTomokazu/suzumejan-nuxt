@@ -1,5 +1,5 @@
+import { GameAccount } from '@/server/account/game-account'
 import { Card } from './typings/type'
-import { GameAccount } from '~/server/account/game-account'
 
 /**
  * すずめ雀プレイヤー
