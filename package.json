@@ -27,7 +27,7 @@
     "vuex-module-decorators": "^1.0.1"
   },
   "devDependencies": {
-    "@nuxt/types": "^2.14.7",
+    "@nuxt/types": "^2.14.9",
     "@nuxt/typescript-build": "^2.0.3",
     "@nuxtjs/eslint-config": "^4.0.0",
     "@nuxtjs/eslint-config-typescript": "^4.0.0",
